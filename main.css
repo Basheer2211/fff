@@ -1,0 +1,12 @@
+.ss{
+    background-color: aquamarine;
+    text-align: center;
+
+}
+.one{
+    float: left;
+    width: 33.33333%;
+    background-color: azure;
+}
+.clear{clear: left;
+}
